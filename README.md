@@ -13,6 +13,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 - [**personal webpage** ](https://zeynepyom.com)
 - **social media:** [![alt text][1.2]][1]
                [![alt text](https://github.com/zeynepyom/zeynepyom.github.io/blob/master/In-2CRev-14px.png)][2]
+               [![alt text][6.2]][3]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -42,40 +43,38 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 [1]: http://www.twitter.com/zeynep_yom
 [2]: https://www.linkedin.com/in/zeynep-yom-b3ba571b/
-
+[3]: https://github.com/zeynepyom
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 ### Publications
 
-**1. “Interest rates, R&D investment and the distortionary effects of R&D incentives”**
-
+**1. “Interest rates, R&D investment and the distortionary effects of R&D incentives”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
+```
 European Economic Review (2019) 111: 191-210. 
-
 with Uluc Aysun
+```
+ 
 
-[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
 
-**2. “The cyclical behavior of R&D investment during the Great Recession”**
-
+**2. “The cyclical behavior of R&D investment during the Great Recession”** [Journal Link](https://link.springer.com/article/10.1007/s00181-017-1358-7)
+```
 Empirical Economics (2019) 56: 301-323.
+```
 
-[Journal Link](https://link.springer.com/article/10.1007/s00181-017-1358-7)
 
-**3. “Income inequality and sovereign default”**
-
+**3. “Income inequality and sovereign default”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0165188918302562)
+```
 Journal of Economic Dynamics and Control (2018) 95: 211-232. 
-
 with Kiyoung Jeon
+```
 
-[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0165188918302562)
 
-**4. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy”** 
-
+**4. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
+```
 Economic Modelling (2018) 75: 305-319. 
-
 with Uluc Aysun and Kiyoung Jeon
+```
 
-[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
 
