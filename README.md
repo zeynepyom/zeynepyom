@@ -1,4 +1,4 @@
-I am the Lisa D'Alessandro '87 Assistant Professor at [Villanova University](https://www1.villanova.edu/university.html). I graduated with a PhD in Economics from [University of Pittsburgh](https://www.pitt.edu) in 2015. 
+I am an Associate Professor at [Villanova University](https://www1.villanova.edu/university.html). I graduated with a PhD in Economics from [University of Pittsburgh](https://www.pitt.edu) in 2015. 
 
 My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. 
 
