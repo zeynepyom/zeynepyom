@@ -50,7 +50,19 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 ### Publications
 
-**1. “Interest rates, R&D investment and the distortionary effects of R&D incentives”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
+**1. “R&D, market power and the cyclicality of employment”**
+```
+Journal of Money, Credit and Banking (2023)  
+with Uluc Aysun, Melanie Guldi and Adam Honig
+```
+
+**2. “R&D characteristics, innovation spillover and technology driven business cycles”**
+```
+Journal of Industry Competition and Trade (2021) 21: 339-365. 
+with Uluc Aysun
+```
+
+**3. “Interest rates, R&D investment and the distortionary effects of R&D incentives”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
 ```
 European Economic Review (2019) 111: 191-210. 
 with Uluc Aysun
@@ -58,20 +70,20 @@ with Uluc Aysun
  
 
 
-**2. “The cyclical behavior of R&D investment during the Great Recession”** [Journal Link](https://link.springer.com/article/10.1007/s00181-017-1358-7)
+**4. “The cyclical behavior of R&D investment during the Great Recession”** [Journal Link](https://link.springer.com/article/10.1007/s00181-017-1358-7)
 ```
 Empirical Economics (2019) 56: 301-323.
 ```
 
 
-**3. “Income inequality and sovereign default”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0165188918302562)
+**5. “Income inequality and sovereign default”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0165188918302562)
 ```
 Journal of Economic Dynamics and Control (2018) 95: 211-232. 
 with Kiyoung Jeon
 ```
 
 
-**4. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
+**6. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy”** [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
 ```
 Economic Modelling (2018) 75: 305-319. 
 with Uluc Aysun and Kiyoung Jeon
